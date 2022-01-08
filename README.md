@@ -22,8 +22,8 @@ Estrutura de Pastas <br>
  * VScode instalado
  * Para rodar a aplicação:
  * Clonar este repositório através do git clone "link deste repositório"
- * Abrir o VScode, no terminal: npm i ou yarn install
- * Iniciar a aplicação: yarn start ou npm start
+ * Abrir o VScode, no terminal: possuir o vue cli instalado / node e o npm instalado em sua máquina
+ * Iniciar a aplicação: npm run serve
 
 
 Ao assistir essa video aula e criar esse projeto, pude aprender mais a fundo sobre componentes, propriedades, conceitos do VueJS como: v-bind, v-on:click e dentre outros.
