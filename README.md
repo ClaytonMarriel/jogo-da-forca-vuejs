@@ -3,8 +3,10 @@
 ## Nessa aplicação, foi desenvolvido o jogo da forca, utilizando o framework VueJS, afim de inicializar o aprendizado e buscar aprofundar no mesmo.
 
 <h1 align="center">
-    <a href="https://vuejs.org/">ReactJS</a>
+    <a href="https://vuejs.org/">VueJS</a>
 </h1>
+
+![jogo-forca](https://user-images.githubusercontent.com/50889610/148646170-901a7e87-391a-4f7d-8c9f-627e7b82e13e.png)
 
 
 Estrutura de Pastas <br>
